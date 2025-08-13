@@ -2,6 +2,12 @@
 
 Universal Rust
 
+## Contact Info
+
+- jeffb@sketchdev.io
+- https://www.sketchdev.io/
+- https://www.linkedin.com/in/jeffbski/
+
 ## Talks
 
 ### Speed, Safety, Security - Building Rust Universal Libraries - KCDC 2025
