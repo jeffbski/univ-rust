@@ -16,3 +16,4 @@ Universal Rust
 - Code (Rust, Python PyO3, Node.js NAPI-rs, WASM) - https://github.com/jeffbski/univ-csv-stats
 - Code Rust Polars - https://github.com/jeffbski/csv-stats-polars-rust
 - Code Python Polars - https://github.com/jeffbski/csv-stats-polars-python
+- [KCDC Speaker Feedback Google Form](https://docs.google.com/forms/d/e/1FAIpQLScdUXxbUec3t8gdFFuE9Q5LKESVxU5AeACA5dVwP6KnEsfDGQ/viewform?usp=sharing&ouid=108104296707934586328)
