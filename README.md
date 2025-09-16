@@ -1,6 +1,6 @@
 # univ-rust
 
-Universal Rust
+Universal Rust Talks and Related Code
 
 ## Contact Info
 
