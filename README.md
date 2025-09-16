@@ -16,6 +16,7 @@ Universal Rust
 - Code (Rust, Python PyO3, Node.js NAPI-rs, WASM) - https://github.com/jeffbski/univ-csv-stats
 - Code Rust Polars - https://github.com/jeffbski/csv-stats-polars-rust
 - Code Python Polars - https://github.com/jeffbski/csv-stats-polars-python
+- Code Rust Parallel Tokio Command Runner with Phonic Audio - https://github.com/jeffbski/rust-tokio-command-phonic
   
 ### Speed, Safety, Security - Building Rust Universal Libraries - KCDC 2025
 
